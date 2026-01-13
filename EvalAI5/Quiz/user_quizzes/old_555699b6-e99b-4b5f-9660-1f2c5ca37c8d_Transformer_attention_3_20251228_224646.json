@@ -1,0 +1,49 @@
+{
+    "user_id": "555699b6-e99b-4b5f-9660-1f2c5ca37c8d",
+    "pdf_names": [
+        "Transformer_attention_3.pdf"
+    ],
+    "attempted_at": "20251228_224646",
+    "mcq_score": 3,
+    "mcq_total": 6,
+    "mcq_details": [
+        {
+            "question_id": "q_3",
+            "user_answer": "A",
+            "correct_answer": "C",
+            "is_correct": false
+        },
+        {
+            "question_id": "q_5",
+            "user_answer": "A",
+            "correct_answer": "C",
+            "is_correct": false
+        },
+        {
+            "question_id": "q_7",
+            "user_answer": "C",
+            "correct_answer": "C",
+            "is_correct": true
+        },
+        {
+            "question_id": "q_14",
+            "user_answer": "B",
+            "correct_answer": "B",
+            "is_correct": true
+        },
+        {
+            "question_id": "q_16",
+            "user_answer": "D",
+            "correct_answer": "D",
+            "is_correct": true
+        },
+        {
+            "question_id": "q_17",
+            "user_answer": "D",
+            "correct_answer": "C",
+            "is_correct": false
+        }
+    ],
+    "saq_answers": {},
+    "saq_status": "pending"
+}

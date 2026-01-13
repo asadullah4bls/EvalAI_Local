@@ -1,0 +1,165 @@
+{
+    "pdf_path": [
+        "C:\\BLS\\EvalAI5\\Uploads\\classification.pdf"
+    ],
+    "pdf_hash": "cad61fb1a4da5ebaf8c0172b7e79ddca19b508e808243d6066894a5022109227",
+    "quiz": [
+        {
+            "question": "What is the primary goal of score regression classification?",
+            "options": {
+                "A": "To classify data into discrete categories",
+                "B": "To predict continuous values or quantities",
+                "C": "To evaluate the performance of a classification model",
+                "D": "To identify outliers in a dataset"
+            },
+            "correct_answer": "B",
+            "explanation": "Score regression classification is a type of regression analysis that aims to predict continuous values or quantities, such as scores or ratings.",
+            "type": "MCQ"
+        },
+        {
+            "question": "What are the types of classification?",
+            "answer": "Supervised and unsupervised classification.",
+            "explanation": "The types of classification are supervised and unsupervised classification.",
+            "type": "SAQ"
+        },
+        {
+            "question": "What is the difference between classification and regression?",
+            "answer": "Classification predicts discrete classes, while regression predicts continuous values.",
+            "explanation": "Classification predicts discrete classes, while regression predicts continuous values.",
+            "type": "SAQ"
+        },
+        {
+            "question": "What does a classification model seek?",
+            "answer": "To predict the class or category of an input.",
+            "explanation": "A classification model seeks to predict the class or category of an input.",
+            "type": "SAQ"
+        },
+        {
+            "question": "What is classifications?",
+            "answer": "The process of assigning a class or category to an input.",
+            "explanation": "Classifications is the process of assigning a class or category to an input.",
+            "type": "SAQ"
+        },
+        {
+            "question": "What is score regression classification?",
+            "answer": "A type of regression classification that predicts a score.",
+            "explanation": "Score regression classification is a type of regression classification that predicts a score.",
+            "type": "SAQ"
+        },
+        {
+            "question": "What is the importance of classification?",
+            "answer": "Classification is used in various applications such as image recognition, speech recognition, and natural language processing.",
+            "explanation": "Classification is used in various applications such as image recognition, speech recognition, and natural language processing.",
+            "type": "SAQ"
+        },
+        {
+            "question": "What is machine learning regression?",
+            "answer": "A type of machine learning that predicts continuous values.",
+            "explanation": "Machine learning regression is a type of machine learning that predicts continuous values. **Theme_2: Classification**",
+            "type": "SAQ"
+        },
+        {
+            "question": "What does a classification model seek to achieve?",
+            "options": {
+                "A": "To predict continuous values or quantities",
+                "B": "To classify data into discrete categories",
+                "C": "To evaluate the performance of a classification model",
+                "D": "To identify outliers in a dataset"
+            },
+            "correct_answer": "B",
+            "explanation": "A classification model seeks to classify data into discrete categories, such as class labels or categories.",
+            "type": "MCQ"
+        },
+        {
+            "question": "Which of the following is a key aspect of regression evaluation metrics?",
+            "options": {
+                "A": "Accuracy and precision",
+                "B": "Mean squared error and R-squared",
+                "C": "F1-score and recall",
+                "D": "Confusion matrix and ROC curve"
+            },
+            "correct_answer": "B",
+            "explanation": "Regression evaluation metrics, such as mean squared error and R-squared, are used to assess the performance of regression models in predicting continuous values or quantities. **Theme_2: Classification**",
+            "type": "MCQ"
+        },
+        {
+            "question": "What are commonly used classifiers?",
+            "answer": "Logistic Regression, Decision Trees, Random Forest, and Support Vector Machines.",
+            "explanation": "Logistic Regression, Decision Trees, Random Forest, and Support Vector Machines are commonly used classifiers.",
+            "type": "SAQ"
+        },
+        {
+            "question": "What is continuous quantity classification?",
+            "answer": "Classification of continuous values or quantities.",
+            "explanation": "Continuous quantity classification is the classification of continuous values or quantities.",
+            "type": "SAQ"
+        },
+        {
+            "question": "Which of the following is a commonly used classifier?",
+            "options": {
+                "A": "Decision tree",
+                "B": "Random forest",
+                "C": "Support vector machine",
+                "D": "All of the above"
+            },
+            "correct_answer": "D",
+            "explanation": "Decision trees, random forests, and support vector machines are all commonly used classifiers in machine learning.",
+            "type": "MCQ"
+        },
+        {
+            "question": "What does a classifier seek to predict?",
+            "answer": "The class or category of an input.",
+            "explanation": "A classifier seeks to predict the class or category of an input.",
+            "type": "SAQ"
+        },
+        {
+            "question": "What does regression classification predict?",
+            "answer": "Continuous values or quantities.",
+            "explanation": "Regression classification predicts continuous values or quantities.",
+            "type": "SAQ"
+        },
+        {
+            "question": "What does a regression classification model predict?",
+            "options": {
+                "A": "Discrete class labels",
+                "B": "Continuous values or quantities",
+                "C": "Binary outcomes",
+                "D": "Multiclass outcomes"
+            },
+            "correct_answer": "B",
+            "explanation": "Regression classification models predict continuous values or quantities, such as prices, temperatures, or scores.",
+            "type": "MCQ"
+        },
+        {
+            "question": "What does classification predict?",
+            "answer": "Discrete classes or categories.",
+            "explanation": "Classification predicts discrete classes or categories.",
+            "type": "SAQ"
+        },
+        {
+            "question": "What is the goal of classification?",
+            "answer": "To predict the class or category of an input.",
+            "explanation": "The goal of classification is to predict the class or category of an input.",
+            "type": "SAQ"
+        },
+        {
+            "question": "What type of classification predicts continuous quantities?",
+            "options": {
+                "A": "Binary classification",
+                "B": "Multiclass classification",
+                "C": "Regression classification",
+                "D": "Continuous quantity classification"
+            },
+            "correct_answer": "C",
+            "explanation": "Regression classification is a type of classification that predicts continuous quantities, such as prices, temperatures, or scores.",
+            "type": "MCQ"
+        },
+        {
+            "question": "What are regression evaluation metrics?",
+            "answer": "Metrics used to evaluate the performance of regression models.",
+            "explanation": "Regression evaluation metrics are used to evaluate the performance of regression models.",
+            "type": "SAQ"
+        }
+    ],
+    "created_at": "2025-12-26 17:28:22.498743"
+}

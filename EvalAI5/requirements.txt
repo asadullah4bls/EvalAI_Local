@@ -1,0 +1,9 @@
+pymupdf
+keybert
+easyocr
+nltk
+matplotlib
+groq
+dotenv
+flask
+flask_cors
